@@ -1,4 +1,4 @@
-const CACHE_NAME = "acnd-universe-cache-v1";
+const CACHE_NAME = "acnd-universe-cache-v2";
 
 // List of files to cache
 const FILES_TO_CACHE = [
@@ -11,6 +11,7 @@ const FILES_TO_CACHE = [
   "og-image.png",
   "screenshot-earth-mars.png",
   "screenshot-jupiter-sun.png",
+  "logo.png",
   "low/ariel.jpg",
   "low/callisto.jpg",
   "low/ceres.jpg",
